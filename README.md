@@ -22,19 +22,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### Dark Mode
 
-## Learn More
+<img width="1440" alt="Screenshot 2023-10-27 at 2 07 47 PM" src="https://github.com/srivastavayushi/nextjs-themes/assets/56116708/0ad5e415-d970-4068-b4f3-fabc767d4d6b">
 
-To learn more about Next.js, take a look at the following resources:
+#### Light Mode
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img width="1437" alt="Screenshot 2023-10-27 at 2 07 55 PM" src="https://github.com/srivastavayushi/nextjs-themes/assets/56116708/8fd384fc-ac2d-4273-9c6d-fe575f36515c">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
